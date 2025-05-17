@@ -1,0 +1,3 @@
+The interactive Power BI file is available on Google Drive:
+
+📊 [Amazon_Dashboard.pbix](https://drive.google.com/file/d/11EDQ61w7_REZRBMBSJu5RyCX2gbyA1-3/view?usp=drivesdk )
