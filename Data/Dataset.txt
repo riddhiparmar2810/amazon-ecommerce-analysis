@@ -1,0 +1,6 @@
+# Data Folder
+
+The cleaned dataset used for analysis is too large to upload directly.
+
+📥 Download from Google Drive:
+👉 [Download cleaned_amazon_products.csv](https://drive.google.com/drive/folders/16zgX0KnYLat9ELCeuwnx_ja7aP8WDnKj)
