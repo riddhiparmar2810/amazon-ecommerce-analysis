@@ -52,24 +52,6 @@ This project analyzes an Amazon product dataset to uncover insights into:
 
 ---
 
-## 📚 Folder Structure
-
-📁 Amazon Product Analysis
-│
-├── 📂 Data
-│ └── cleaned_amazon_products.csv
-│
-├── 📂 PowerBI
-│ └── Amazon_Dashboard.pbix
-│
-├── 📂 Notebooks
-│ └── Amazon_Colab_Analysis.ipynb
-│
-└── README.md
-
-
----
-
 ## 🙌 Author
 
 Created by Riddhi Parmar.  
