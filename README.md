@@ -36,7 +36,7 @@ This project analyzes an Amazon product dataset to uncover insights into:
 - 💰 Total Revenue: ₹61.87M
 - ⭐ Average Star Rating: 4.00
 - 📦 Total Products: 1.42M+
-- 🏆 Best Seller Products: ~5.7%
+- 🏆 Best Seller Products: ~59.73%
 - 🔝 Most Selling Categories: Electronics, Health, Kitchen, Sports
 - 💸 Discount patterns vary widely by category
 - 📈 Strong correlation between number of reviews & product ratings
